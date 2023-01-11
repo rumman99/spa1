@@ -1,0 +1,28 @@
+.header-logo img{
+    height: 80px;
+    margin-bottom: 15px;
+}
+.header-logo{
+    text-align: center;
+}
+
+.header-logo nav{
+    background-color: black;
+    line-height: 2;
+    font-size: 18px;
+}
+
+.header-logo nav a{
+    color: white;
+    text-decoration: none;
+    padding: 6px 15px;
+
+}
+
+.header-logo nav a:hover{
+    background-color: gray;
+}
+
+.cartIcon{
+    margin-left: 800px;
+}
